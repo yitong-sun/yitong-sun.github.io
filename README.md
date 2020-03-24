@@ -1,5 +1,11 @@
 ## Welcome to GitHub Pages
 
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+
 You can use the [editor on GitHub](https://github.com/yitong-sun/yitong-sun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
